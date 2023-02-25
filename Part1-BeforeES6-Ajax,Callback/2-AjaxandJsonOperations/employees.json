@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Kerem PARLAK",
+        "department": "Yazılım",
+        "salary": 40000
+    },
+    {
+        "name": "Hatun TEKİN",
+        "department": "Bilişim",
+        "salary": 45000
+    },
+    {
+        "name": "Fuat Köprülü",
+        "department": "Edebiyat",
+        "salary": 4000
+    }
+]
